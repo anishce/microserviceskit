@@ -1,4 +1,4 @@
-namespace AnishCeDev.CoachingMentoring.Mentoring
+namespace AnishCeDev.CoachingMentoring.Mentoring.Web.Api
 {
     public class WeatherForecast
     {

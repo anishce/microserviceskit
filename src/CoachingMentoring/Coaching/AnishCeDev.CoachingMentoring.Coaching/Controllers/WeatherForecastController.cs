@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AnishCeDev.CoachingMentoring.Coaching.Controllers
+namespace AnishCeDev.CoachingMentoring.Coaching.Web.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
