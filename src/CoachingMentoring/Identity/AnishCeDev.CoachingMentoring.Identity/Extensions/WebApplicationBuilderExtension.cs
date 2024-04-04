@@ -1,4 +1,4 @@
-﻿namespace AnishCeDev.CoachingMentoring.Identity.Extensions
+﻿namespace AnishCeDev.CoachingMentoring.Identity.Web.Ui.Extensions
 {
     public static class WebApplicationBuilderExtension
     {

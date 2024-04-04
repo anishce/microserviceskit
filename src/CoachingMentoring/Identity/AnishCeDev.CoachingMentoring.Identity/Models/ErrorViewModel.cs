@@ -1,4 +1,4 @@
-namespace AnishCeDev.CoachingMentoring.Identity.Models
+namespace AnishCeDev.CoachingMentoring.Identity.Web.Ui.Models
 {
     public class ErrorViewModel
     {

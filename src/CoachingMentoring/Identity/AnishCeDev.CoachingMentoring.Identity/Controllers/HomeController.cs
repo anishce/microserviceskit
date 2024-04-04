@@ -1,8 +1,8 @@
-using AnishCeDev.CoachingMentoring.Identity.Models;
+using AnishCeDev.CoachingMentoring.Identity.Web.Ui.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AnishCeDev.CoachingMentoring.Identity.Controllers
+namespace AnishCeDev.CoachingMentoring.Identity.Web.Ui.Controllers
 {
     public class HomeController : Controller
     {

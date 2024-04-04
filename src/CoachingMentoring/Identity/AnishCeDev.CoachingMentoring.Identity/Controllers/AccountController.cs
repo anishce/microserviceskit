@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AnishCeDev.CoachingMentoring.Identity.Controllers
+namespace AnishCeDev.CoachingMentoring.Identity.Web.Ui.Controllers
 {
     public class AccountController : Controller
     {

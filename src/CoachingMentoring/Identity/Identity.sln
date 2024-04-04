@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnishCeDev.CoachingMentoring.Identity", "AnishCeDev.CoachingMentoring.Identity\AnishCeDev.CoachingMentoring.Identity.csproj", "{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.Identity.Web.Ui", "AnishCeDev.CoachingMentoring.Identity\AnishCeDev.CoachingMentoring.Identity.Web.Ui.csproj", "{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
