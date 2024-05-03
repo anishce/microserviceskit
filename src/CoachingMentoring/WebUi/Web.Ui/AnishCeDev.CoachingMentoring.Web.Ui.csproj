@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="E:\Project\github\microserviceskit\src\CoachingMentoring\WebUi\Web.Ui\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="E:\Project\github\microserviceskit\src\CoachingMentoring\WebUi\Web.Ui\.editorconfig" />
+  </ItemGroup>
+
 </Project>

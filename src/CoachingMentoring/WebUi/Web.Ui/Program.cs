@@ -1,3 +1,8 @@
+// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
