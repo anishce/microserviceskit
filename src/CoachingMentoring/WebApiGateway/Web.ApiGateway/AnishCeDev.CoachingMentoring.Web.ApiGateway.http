@@ -1,0 +1,6 @@
+@AnishCeDev.CoachingMentoring.Web.ApiGateway_HostAddress = http://localhost:5275
+
+GET {{AnishCeDev.CoachingMentoring.Web.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
