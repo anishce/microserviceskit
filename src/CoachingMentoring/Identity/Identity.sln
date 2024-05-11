@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.Identity.Web.Ui", "AnishCeDev.CoachingMentoring.Identity\AnishCeDev.CoachingMentoring.Identity.Web.Ui.csproj", "{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.Identity.Web.Ui", "Web.Ui\AnishCeDev.CoachingMentoring.Identity.Web.Ui.csproj", "{CE1767BB-2A17-4EE3-8FA4-61AF5E27F798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8F8AD40-B9D1-43B4-B42E-8A08301E2EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1767BB-2A17-4EE3-8FA4-61AF5E27F798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1767BB-2A17-4EE3-8FA4-61AF5E27F798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1767BB-2A17-4EE3-8FA4-61AF5E27F798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1767BB-2A17-4EE3-8FA4-61AF5E27F798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
