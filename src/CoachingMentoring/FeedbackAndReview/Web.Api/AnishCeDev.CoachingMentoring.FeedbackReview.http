@@ -1,0 +1,6 @@
+@AnishCeDev.CoachingMentoring.FeedbackReview_HostAddress = http://localhost:5267
+
+GET {{AnishCeDev.CoachingMentoring.FeedbackReview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
