@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentorin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.FeedbackReview.Infra", "Infrastructure\AnishCeDev.CoachingMentoring.FeedbackReview.Infra.csproj", "{89612A6C-0546-4966-89DD-5B5262852348}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.FeedbackReview.Domain", "Domain\AnishCeDev.CoachingMentoring.FeedbackReview.Domain.csproj", "{118B1F9D-784C-4BBB-8B6C-20161A86F9A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnishCeDev.CoachingMentoring.FeedbackReview.Web.Api", "Web.Api\AnishCeDev.CoachingMentoring.FeedbackReview.Web.Api.csproj", "{11AB4671-D0CB-4CF7-B655-B3C7B37F05D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{89612A6C-0546-4966-89DD-5B5262852348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89612A6C-0546-4966-89DD-5B5262852348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89612A6C-0546-4966-89DD-5B5262852348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118B1F9D-784C-4BBB-8B6C-20161A86F9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118B1F9D-784C-4BBB-8B6C-20161A86F9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118B1F9D-784C-4BBB-8B6C-20161A86F9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118B1F9D-784C-4BBB-8B6C-20161A86F9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AB4671-D0CB-4CF7-B655-B3C7B37F05D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AB4671-D0CB-4CF7-B655-B3C7B37F05D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AB4671-D0CB-4CF7-B655-B3C7B37F05D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AB4671-D0CB-4CF7-B655-B3C7B37F05D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
