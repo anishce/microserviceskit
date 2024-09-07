@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AnishCeDev.CoachingMentoring.Coaching.Data.Repositories
+namespace AnishCeDev.CoachingMentoring.LearningAndDevelopment.Data.Repositories
 {
     internal class CoachRepository
     {

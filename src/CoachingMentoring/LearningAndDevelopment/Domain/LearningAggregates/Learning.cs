@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnishCeDev.CoachingMentoring.Coaching.Domain.LearningAggregates
+namespace AnishCeDev.CoachingMentoring.LearningAndDevelopment.Domain.LearningAggregates
 {
     public class Learning
     {
