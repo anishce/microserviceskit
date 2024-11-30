@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\AnishCeDev.CoachingMentoring.LearningAndDevelopment.Domain.csproj" />
+    <ProjectReference Include="..\Infrastructure\AnishCeDev.CoachingMentoring.LearningAndDevelopment.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
