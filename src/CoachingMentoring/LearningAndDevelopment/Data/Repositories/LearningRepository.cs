@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AnishCeDev.CoachingMentoring.LearningAndDevelopment.Data.Repositories
 {
-    internal class CoachRepository
+    internal class LearningRepository
     {
     }
 }
