@@ -1,0 +1,6 @@
+@AnishCeDev.TaskManagement.Task.Web.Api_HostAddress = http://localhost:5170
+
+GET {{AnishCeDev.TaskManagement.Task.Web.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
