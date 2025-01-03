@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Infra\AnishCeDev.TaskManagement.Task.Infra.csproj" />
+  </ItemGroup>
+
 </Project>
