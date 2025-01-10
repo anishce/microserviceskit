@@ -1,8 +1,13 @@
-﻿namespace AnishCeDev.TaskManagement.Task.Infra.DomainBase
+﻿// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
+
+namespace AnishCeDev.TaskManagement.Task.Infra.DomainBase
 {
     public abstract class BaseEntity<TId> : IEntity
     {
-        public BaseEntity(TId id,int version)
+        public BaseEntity(TId id, int version)
         {
             Id = id;
             Version = version;
