@@ -1,4 +1,9 @@
-﻿using AnishCeDev.TaskManagement.Task.Infra.DomainBase;
+﻿// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
+
+using AnishCeDev.TaskManagement.Task.Infra.DomainBase;
 
 namespace AnishCeDev.TaskManagement.Domain.Shared
 {
