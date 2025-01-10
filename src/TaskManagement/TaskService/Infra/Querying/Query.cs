@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
 
 namespace AnishCeDev.TaskManagement.Task.Infra.Querying
 {
