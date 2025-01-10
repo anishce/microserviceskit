@@ -1,4 +1,9 @@
-﻿using AnishCeDev.TaskManagement.Domain.Shared;
+﻿// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
+
+using AnishCeDev.TaskManagement.Domain.Shared;
 using AnishCeDev.TaskManagement.Task.Infra.DomainBase;
 
 namespace AnishCeDev.TaskManagement.Task.Domain.StatusAggregate
