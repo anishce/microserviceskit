@@ -6,7 +6,6 @@
 // Ignore Spelling: Anish App Api
 
 using AnishCeDev.TaskManagement.Task.Web.Api.Models;
-using Task = System.Threading.Tasks.Task;
 
 namespace AnishCeDev.TaskManagement.Task.Web.Api.ApplicationServices
 {
