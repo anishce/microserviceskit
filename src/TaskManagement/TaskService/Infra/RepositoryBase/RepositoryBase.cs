@@ -1,10 +1,14 @@
-﻿using AnishCeDev.TaskManagement.Task.Infra.DomainBase;
+﻿// ************************************************************************
+// Copyright (c) AnishCeDev All Rights Reserved.
+// Author: AnishCeDev
+// ************************************************************************
+
+using AnishCeDev.TaskManagement.Task.Infra.DomainBase;
 using AnishCeDev.TaskManagement.Task.Infra.Querying;
-using System.Collections.Generic;
 
 namespace AnishCeDev.TaskManagement.Task.Infra.RepositoryBase
 {
-    public abstract class RepositoryBase<T, TId> : IRepository<T, TId>  where T : IAggregateRoot
+    public abstract class RepositoryBase<T, TId> : IRepository<T, TId> where T : IAggregateRoot
     {
         #region IRepository
         public abstract void Add(T entity);
