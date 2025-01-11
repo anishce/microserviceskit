@@ -27,7 +27,7 @@ namespace AnishCeDev.TaskManagement.Task.Web.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-           var priorities = await priorityAppService.GetPrioritiesAsync();
+            var priorities = await priorityAppService.GetPrioritiesAsync();
             return Ok(priorities);
         }
 
