@@ -6,7 +6,6 @@
 // Ignore Spelling: App
 
 using AnishCeDev.TaskManagement.Task.Web.Api.Models;
-using Microsoft.AspNetCore.Mvc.Formatters;
 
 namespace AnishCeDev.TaskManagement.Task.Web.Api.ApplicationServices
 {
