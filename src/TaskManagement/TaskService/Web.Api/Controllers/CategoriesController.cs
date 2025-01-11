@@ -20,7 +20,7 @@ namespace AnishCeDev.TaskManagement.Task.Web.Api.Controllers
         private readonly ICategoryAppService categoryAppService;
         public CategoriesController(ICategoryAppService categoryAppService)
         {
-            this.categoryAppService = categoryAppService;   
+            this.categoryAppService = categoryAppService;
         }
 
         // GET: api/<CategoryController>
