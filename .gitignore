@@ -22,4 +22,3 @@ TestResult.xml
 Backup/
 *.user
 /node_modules/
-*.editorconfig
